@@ -1,0 +1,17 @@
+        #top_bar{
+            background-color: #483519;
+            padding: 20px;
+        }
+
+        #top_bar div p{
+            display: inline;
+        }
+
+        #second_top_bar{
+        float: right;
+       }
+
+        #second_top_bar a{
+            color: black;
+            text-decoration: none;
+        }
